@@ -1,0 +1,6 @@
+D:\SelfEducation\Sum of the first nth term of Series\Sum of the first nth term of Series\bin\Debug\Sum of the first nth term of Series.exe.config
+D:\SelfEducation\Sum of the first nth term of Series\Sum of the first nth term of Series\bin\Debug\Sum of the first nth term of Series.exe
+D:\SelfEducation\Sum of the first nth term of Series\Sum of the first nth term of Series\bin\Debug\Sum of the first nth term of Series.pdb
+D:\SelfEducation\Sum of the first nth term of Series\Sum of the first nth term of Series\obj\Debug\Sum of the first nth term of Series.csprojResolveAssemblyReference.cache
+D:\SelfEducation\Sum of the first nth term of Series\Sum of the first nth term of Series\obj\Debug\Sum of the first nth term of Series.exe
+D:\SelfEducation\Sum of the first nth term of Series\Sum of the first nth term of Series\obj\Debug\Sum of the first nth term of Series.pdb

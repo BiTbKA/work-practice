@@ -1,0 +1,17 @@
+D:\!!-!!-!!-!!\BinarySystemConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\!!-!!-!!-!!\BinarySystemConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\!!-!!-!!-!!\BinarySystemConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\!!-!!-!!-!!\BinarySystemConverter\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\!!-!!-!!-!!\BinarySystemConverter\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\!!-!!-!!-!!\BinarySystemConverter\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\!!-!!-!!-!!\BinarySystemConverter\ConsoleApplication1\bin\Debug\BinarySystemConverter.dll
+D:\!!-!!-!!-!!\BinarySystemConverter\ConsoleApplication1\bin\Debug\BinarySystemConverter.pdb
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\bin\Debug\BinarySystemConverter.dll
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\bin\Debug\BinarySystemConverter.pdb
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\SelfEducation\BinarySystemConverter\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache

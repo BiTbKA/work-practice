@@ -1,0 +1,7 @@
+D:\SelfEducation\CodeWars\Mars Lander - Episode 2\bin\Debug\Mars Lander - Episode 2.exe.config
+D:\SelfEducation\CodeWars\Mars Lander - Episode 2\bin\Debug\Mars Lander - Episode 2.exe
+D:\SelfEducation\CodeWars\Mars Lander - Episode 2\bin\Debug\Mars Lander - Episode 2.pdb
+D:\SelfEducation\CodeWars\Mars Lander - Episode 2\obj\Debug\Mars Lander - Episode 2.csprojResolveAssemblyReference.cache
+D:\SelfEducation\CodeWars\Mars Lander - Episode 2\obj\Debug\Mars Lander - Episode 2.csproj.CoreCompileInputs.cache
+D:\SelfEducation\CodeWars\Mars Lander - Episode 2\obj\Debug\Mars Lander - Episode 2.exe
+D:\SelfEducation\CodeWars\Mars Lander - Episode 2\obj\Debug\Mars Lander - Episode 2.pdb

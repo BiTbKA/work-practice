@@ -1,0 +1,6 @@
+D:\SelfEducation\Sum of a sequence\Sum of a sequence\bin\Debug\Sum of a sequence.exe.config
+D:\SelfEducation\Sum of a sequence\Sum of a sequence\bin\Debug\Sum of a sequence.exe
+D:\SelfEducation\Sum of a sequence\Sum of a sequence\bin\Debug\Sum of a sequence.pdb
+D:\SelfEducation\Sum of a sequence\Sum of a sequence\obj\Debug\Sum of a sequence.csprojResolveAssemblyReference.cache
+D:\SelfEducation\Sum of a sequence\Sum of a sequence\obj\Debug\Sum of a sequence.exe
+D:\SelfEducation\Sum of a sequence\Sum of a sequence\obj\Debug\Sum of a sequence.pdb

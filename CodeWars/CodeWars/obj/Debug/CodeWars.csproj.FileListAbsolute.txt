@@ -1,0 +1,7 @@
+D:\SelfEducation\CodeWars\CodeWars\bin\Debug\CodeWars.exe.config
+D:\SelfEducation\CodeWars\CodeWars\bin\Debug\CodeWars.exe
+D:\SelfEducation\CodeWars\CodeWars\bin\Debug\CodeWars.pdb
+D:\SelfEducation\CodeWars\CodeWars\obj\Debug\CodeWars.csprojResolveAssemblyReference.cache
+D:\SelfEducation\CodeWars\CodeWars\obj\Debug\CodeWars.exe
+D:\SelfEducation\CodeWars\CodeWars\obj\Debug\CodeWars.pdb
+D:\SelfEducation\CodeWars\CodeWars\obj\Debug\CodeWars.csproj.CoreCompileInputs.cache

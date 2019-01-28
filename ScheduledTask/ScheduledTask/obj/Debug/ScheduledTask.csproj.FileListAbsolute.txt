@@ -1,0 +1,15 @@
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\ScheduledTask.exe.config
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\ScheduledTask.exe
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\ScheduledTask.pdb
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.Core.dll
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.dll
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Quartz.dll
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.pdb
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.xml
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.Core.pdb
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Common.Logging.Core.xml
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Quartz.pdb
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\bin\Debug\Quartz.xml
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\obj\Debug\ScheduledTask.csprojResolveAssemblyReference.cache
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\obj\Debug\ScheduledTask.exe
+D:\!!-!!-!!-!!\ScheduledTask\ScheduledTask\obj\Debug\ScheduledTask.pdb

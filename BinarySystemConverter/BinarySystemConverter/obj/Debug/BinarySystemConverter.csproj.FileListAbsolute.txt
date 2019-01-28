@@ -1,0 +1,11 @@
+D:\!!-!!-!!-!!\BinarySystemConverter\BinarySystemConverter\bin\Debug\BinarySystemConverter.dll
+D:\!!-!!-!!-!!\BinarySystemConverter\BinarySystemConverter\bin\Debug\BinarySystemConverter.pdb
+D:\!!-!!-!!-!!\BinarySystemConverter\BinarySystemConverter\obj\Debug\BinarySystemConverter.dll
+D:\!!-!!-!!-!!\BinarySystemConverter\BinarySystemConverter\obj\Debug\BinarySystemConverter.pdb
+D:\!!-!!-!!-!!\BinarySystemConverter\BinarySystemConverter\obj\Debug\BinarySystemConverter.csprojResolveAssemblyReference.cache
+D:\SelfEducation\BinarySystemConverter\BinarySystemConverter\bin\Debug\BinarySystemConverter.dll
+D:\SelfEducation\BinarySystemConverter\BinarySystemConverter\bin\Debug\BinarySystemConverter.pdb
+D:\SelfEducation\BinarySystemConverter\BinarySystemConverter\obj\Debug\BinarySystemConverter.csprojResolveAssemblyReference.cache
+D:\SelfEducation\BinarySystemConverter\BinarySystemConverter\obj\Debug\BinarySystemConverter.csproj.CoreCompileInputs.cache
+D:\SelfEducation\BinarySystemConverter\BinarySystemConverter\obj\Debug\BinarySystemConverter.dll
+D:\SelfEducation\BinarySystemConverter\BinarySystemConverter\obj\Debug\BinarySystemConverter.pdb
